@@ -13,4 +13,7 @@ de conhecimento que eu tenho !!
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
