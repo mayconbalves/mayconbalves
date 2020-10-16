@@ -14,6 +14,7 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   3 mins          █████████████▓░░░░░░░░░░░   54.82 % 
+VimL       3 mins          ███████████▒░░░░░░░░░░░░░   45.18 % 
 ```
 <!--END_SECTION:waka-->
