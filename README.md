@@ -14,7 +14,10 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   3 mins          █████████████▓░░░░░░░░░░░   54.82 % 
-VimL       3 mins          ███████████▒░░░░░░░░░░░░░   45.18 % 
+JSON         13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 % 
+Other        12 mins         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 % 
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+VimL         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 <!--END_SECTION:waka-->
