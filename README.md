@@ -30,8 +30,8 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 57 mins    ██████████████░░░░░░░░░░░   55.55 % 
-CSS          54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 % 
-Markdown     39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
+JavaScript   1 hr 20 mins    █████████████▓░░░░░░░░░░░   54.34 % 
+Markdown     39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 % 
+CSS          28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 ```
 <!--END_SECTION:waka-->
