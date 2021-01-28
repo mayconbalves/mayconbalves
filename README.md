@@ -30,7 +30,7 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 51 mins    ████████████████████░░░░░   80.51 % 
-JSON         26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.20 % 
+JavaScript   2 hrs 7 mins    ████████████████████▓░░░░   82.46 % 
+JSON         26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
 <!--END_SECTION:waka-->
