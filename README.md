@@ -30,6 +30,6 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   43 mins         █████████████████████████   99.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
