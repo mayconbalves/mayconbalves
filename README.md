@@ -30,6 +30,10 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.72 % 
+GraphQL      7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+JSON         6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Other        4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+VimL         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 <!--END_SECTION:waka-->
