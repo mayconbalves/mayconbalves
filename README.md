@@ -30,10 +30,10 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       10 hrs 54 mins  ████████████░░░░░░░░░░░░░   48.25 % 
-JavaScript   10 hrs 21 mins  ███████████▒░░░░░░░░░░░░░   45.86 % 
-JSON         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Vue.js       12 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.98 % 
+JavaScript   9 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.69 % 
+JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
