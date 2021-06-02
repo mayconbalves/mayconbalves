@@ -32,7 +32,7 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 ```text
 HTML         4 hrs 17 mins   ████████████████████▒░░░░   80.92 % 
-Text         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Text         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 JSX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
