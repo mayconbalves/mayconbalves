@@ -31,9 +31,9 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-JSX          4 hrs 15 mins   ████████████████▓░░░░░░░░   66.96 % 
-JavaScript   2 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.01 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JSX          1 hr 56 mins    ███████████████░░░░░░░░░░   60.56 % 
+JavaScript   1 hr 12 mins    █████████▒░░░░░░░░░░░░░░░   37.41 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
