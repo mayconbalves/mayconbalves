@@ -31,7 +31,6 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 5 mins     ████████████████████████▒   97.08 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
