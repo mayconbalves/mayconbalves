@@ -31,6 +31,9 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         23 mins         ██████████░░░░░░░░░░░░░░░   39.95 % 
+JavaScript   22 mins         █████████▓░░░░░░░░░░░░░░░   38.01 % 
+Other        8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Git Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 ```
 <!--END_SECTION:waka-->
