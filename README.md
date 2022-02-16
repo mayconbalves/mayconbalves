@@ -31,6 +31,8 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 49 mins
+
 TypeScript   10 hrs 18 mins  ███████████████████████▓░   95.21 % 
 JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
