@@ -31,11 +31,7 @@ de conhecimento que eu tenho !!
 
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 55 mins
-
-TypeScript   7 hrs 54 mins   ██████████████████████▒░░   88.68 % 
-Bash         49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript   10 hrs 55 mins  ██████████████████████▒░░   88.94 % 
+Bash         1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 <!--END_SECTION:waka-->
