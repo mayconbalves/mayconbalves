@@ -30,11 +30,14 @@ de conhecimento que eu tenho !!
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   6 hrs 53 mins   ███████████████████▒░░░░░   77.97 % 
-Bash         1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-JSON         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript   6 hrs 53 mins   ███████████████████▒░░░░░   77.97 %
+Bash         1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+JSON         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
