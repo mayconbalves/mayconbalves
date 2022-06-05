@@ -32,8 +32,9 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-VimL   11 mins         ████████████████████████░   96.46 %
-Bash   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+VimL    11 mins         ████████████████████████░   96.46 %
+Bash    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
