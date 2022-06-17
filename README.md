@@ -36,10 +36,10 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 25 mins   ████████████████████▒░░░░   81.23 %
-CSS          35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-VimL         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-gitrebase    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript   5 hrs 55 mins   ██████████████████████▓░░   90.48 %
+CSS          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+VimL         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+gitrebase    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
