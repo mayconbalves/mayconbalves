@@ -36,8 +36,9 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 12 mins   ████████████████████████▒   97.36 %
-VimL         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript   1 hr 15 mins    ███████████████████████▒░   92.83 %
+JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
