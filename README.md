@@ -29,7 +29,7 @@ de conhecimento que eu tenho !!
 
 ## Top Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconbalves&langs_count=8&theme=dark)](https://github.com/lira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconbalves&langs_count=8&theme=dark)](https://github.com/mayconbalves)
 
 ## Wakatime Stats
 
