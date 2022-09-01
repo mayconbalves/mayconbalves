@@ -36,9 +36,9 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 59 mins   ███████████████████▒░░░░░   77.16 %
-JavaScript   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Other        43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+TypeScript   12 hrs 28 mins  ████████████████████▓░░░░   82.43 %
+Markdown     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
