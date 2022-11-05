@@ -36,12 +36,9 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-Bash         17 mins         █████████░░░░░░░░░░░░░░░░   35.62 %
-TypeScript   13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
-JSON         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-Git Config   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Docker       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JSON         1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.91 %
+TypeScript   1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   36.10 %
+Other        19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
 ```
 
 <!--END_SECTION:waka-->
