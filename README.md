@@ -36,8 +36,8 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 28 mins    ██████████████████░░░░░░░   71.77 %
-Other        17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+TypeScript   1 hr 28 mins    █████████████████▓░░░░░░░   71.24 %
+Other        18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
 ```
 
 <!--END_SECTION:waka-->
