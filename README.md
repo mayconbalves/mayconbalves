@@ -36,7 +36,7 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-Other        18 mins         █████████████▒░░░░░░░░░░░   52.92 %
+Other        18 mins         ████████░░░░░░░░░░░░░░░░░   32.56 %
 ```
 
 <!--END_SECTION:waka-->
