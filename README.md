@@ -36,8 +36,8 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-JSON         3 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.09 %
-Other        2 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+JSON         3 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   35.30 %
+Other        2 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
 ```
 
 <!--END_SECTION:waka-->
