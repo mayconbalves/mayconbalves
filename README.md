@@ -36,12 +36,12 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.65 %
-TypeScript   1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-JSON         1 hr 21 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-JavaScript   1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript   1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+JSON         1 hr 21 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+JavaScript   1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Rust         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Bash         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
