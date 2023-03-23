@@ -36,12 +36,12 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 1 min    ████████████████▓░░░░░░░░   66.55 %
-Terraform    3 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-JSON         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+TypeScript   12 hrs 58 mins  █████████████████▓░░░░░░░   71.23 %
+Terraform    3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+JSON         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+XML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
