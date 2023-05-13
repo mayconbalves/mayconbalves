@@ -36,11 +36,11 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.05 %
-JSON         1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-JavaScript   1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Bash         49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript   3 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.55 %
+JavaScript   3 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.79 %
+JSON         1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Bash         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
