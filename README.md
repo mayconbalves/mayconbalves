@@ -36,11 +36,11 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-CSS            1 hr 36 mins    █████████████░░░░░░░░░░░░   51.52 %
-MDX            45 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-TypeScript     21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Vim Script     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Bash           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+CSS            1 hr 59 mins    █████████▒░░░░░░░░░░░░░░░   37.16 %
+Vim Script     1 hr 24 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
+MDX            48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+TypeScript     44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+JavaScript     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
