@@ -36,7 +36,11 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   22 mins         █████████████████▓░░░░░░░   70.02 %
+JSON         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+TypeScript   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
