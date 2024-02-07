@@ -36,7 +36,7 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 34 mins  █████████████████████████   100.00 %
+TypeScript   10 hrs 21 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
