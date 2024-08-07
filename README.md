@@ -36,7 +36,8 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   55 mins         ████████████████████████▓   98.31 %
+SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
