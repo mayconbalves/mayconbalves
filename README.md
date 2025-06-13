@@ -36,8 +36,10 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      6 hrs 35 mins   █████████████████████████   99.50 %
-Bash            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TypeScript      5 hrs 12 mins   ██████████████████████▓░░   90.71 %
+YAML            25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Other           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Bash            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Jest Snapshot   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
