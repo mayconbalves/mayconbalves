@@ -36,11 +36,8 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 1 hr 11 mins    ███████████████▒░░░░░░░░░   60.71 %
-YAML                       19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Bash                       19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Other                      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Docker                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   1 hr 15 mins    ████████████████████▒░░░░   80.70 %
+Bash         17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
 ```
 
 <!--END_SECTION:waka-->
