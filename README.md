@@ -36,10 +36,7 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   20 mins         ████████████░░░░░░░░░░░░░   47.85 %
-JSON         17 mins         ██████████░░░░░░░░░░░░░░░   40.45 %
-Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
