@@ -36,7 +36,10 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          16 mins         ███████████████░░░░░░░░░░   59.79 %
+Other        5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+TypeScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Vim Script   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
