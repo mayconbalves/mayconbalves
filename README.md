@@ -36,7 +36,10 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   45 mins         ██████████████▒░░░░░░░░░░   57.22 %
+PHP              25 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Other            8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
