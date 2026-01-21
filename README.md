@@ -36,11 +36,11 @@ de conhecimento que eu tenho !!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       2 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   35.87 %
-Blade Template   1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
-PHP              1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-SCSS             37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-C                21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+TypeScript       2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.35 %
+Blade Template   1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+PHP              1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+SCSS             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+C                22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
